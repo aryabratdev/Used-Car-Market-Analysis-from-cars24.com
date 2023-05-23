@@ -2,20 +2,20 @@
 
 ## Perform ‘Exploratory Data Analysis’ on Used Car Market Analysis from cars24.com.
 
-# Key words:
+# Key words :
 * Web scraping, Python, EDA
 
-# INTRODUCTION:
-Everyone has different perspective about cars .some go for luxury .some go for vintage .some prefer cars based on their economic condition .This project focused on examining the determinants of vehicle pricing in the local used car market . In this project I want to show you how to scrape all the search results from one of the main car seller websites in India (where I live) and build a database with all the listings found. The name of the scraped website is Cars24.
+# INTRODUCTION :
+Everyone has different perspective about cars .some go for luxury .some go for vintage .some prefer cars based on their economic condition .This project focused on examining the determinants of vehicle pricing in the local used car market. In this project I want to show you how to scrape all the search results from one of the main car seller websites in India (where I live) and build a database with all the listings found. The name of the scraped website is Cars24.
 
-# Notebooks:
+# Notebooks :
 There are 3 notebooks in the project and each works for one important function in the project, which includes :
 
 1. Web Scraping : scrape the webpages and parsing all the vehicle webpages, save the raw data to csv file, ‘cars24_csv’.
 2. Data Cleaning : clean the data in terms of missing data, wrong data, get rid of unnessesary spaces and commas, create new features, save the cleaned file to csv file, ‘cars24_csv’.
 3. EDA: extensive explorary data analysis, including lots of visualization to illustrate the distributions of number of listings and prices against different features.   Visualize the popular features distribution by plots.
 
-# Conclusion:
+# Conclusion :
 
 From the visualization , I found out several conclusions below.
 
